@@ -1,5 +1,4 @@
-# DLCV Final Project ( Talking to me )
-
+# DLCV Final Project ( Talking to me ) | [Poster](https://github.com/Shelley1214/DLCVFinalProject_TalkingToMe/blob/main/poster.pdf)
 ```
 ├──student_data
     ├──test
